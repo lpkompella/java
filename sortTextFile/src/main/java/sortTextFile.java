@@ -16,7 +16,6 @@ public class sortTextFile {
 
                 try {
 
-
                     Scanner user = new Scanner( System.in );
                     String  inputFileName;
 
